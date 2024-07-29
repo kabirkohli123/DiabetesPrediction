@@ -37,7 +37,7 @@ Diabetes is a chronic disease that affects millions of people worldwide. Early p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/diabetes-prediction.git
+   git clone https://github.com/kabirkohli123/diabetes-prediction.git
    cd diabetes-prediction
    ```
 
